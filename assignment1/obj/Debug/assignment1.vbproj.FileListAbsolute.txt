@@ -1,0 +1,11 @@
+C:\Users\gaffn\source\repos\assignment1\assignment1\bin\Debug\assignment1.exe.config
+C:\Users\gaffn\source\repos\assignment1\assignment1\bin\Debug\assignment1.exe
+C:\Users\gaffn\source\repos\assignment1\assignment1\bin\Debug\assignment1.pdb
+C:\Users\gaffn\source\repos\assignment1\assignment1\bin\Debug\assignment1.xml
+C:\Users\gaffn\source\repos\assignment1\assignment1\obj\Debug\assignment1.vbprojAssemblyReference.cache
+C:\Users\gaffn\source\repos\assignment1\assignment1\obj\Debug\assignment1.Resources.resources
+C:\Users\gaffn\source\repos\assignment1\assignment1\obj\Debug\assignment1.vbproj.GenerateResource.cache
+C:\Users\gaffn\source\repos\assignment1\assignment1\obj\Debug\assignment1.exe
+C:\Users\gaffn\source\repos\assignment1\assignment1\obj\Debug\assignment1.xml
+C:\Users\gaffn\source\repos\assignment1\assignment1\obj\Debug\assignment1.pdb
+C:\Users\gaffn\source\repos\assignment1\assignment1\obj\Debug\assignment1.frmMain.resources
